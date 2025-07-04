@@ -17,6 +17,7 @@
     "@tailwindcss/vite": "^4.0.11",
     "idb": "^8.0.2",
     "tailwindcss": "^4.0.11",
+    "workbox-precaching": "^7.3.0",
     "workbox-window": "^7.3.0"
   }
 }
