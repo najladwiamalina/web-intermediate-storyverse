@@ -6,5 +6,8 @@ Dicoding Email : dwiamalinajla@gmail.com
 MAP_SERVICE_API_KEY : Not Required  
 Description         : This project uses OpenStreetMap via Leaflet.js
 
-LINK:
+LINK REPO:
 https://github.com/najladwiamalina/web-intermediate-storyverse.git
+
+LINK DEPLOY:
+https://najladwiamalina.github.io/web-intermediate-storyverse/ 
